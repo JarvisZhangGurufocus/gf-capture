@@ -1,6 +1,6 @@
 {
   "name": "gf-capture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Window Capture with Html2Canvas",
   "author": "jiawei zhang <zhangjw.uta@gmail.com>",
   "private": false,
@@ -13,6 +13,10 @@
   "dependencies": {
     "html2canvas": "^1.0.0-rc.5",
     "vue": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:JarvisZhangGurufocus/gf-capture.git"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
