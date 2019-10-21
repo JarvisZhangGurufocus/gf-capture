@@ -1,13 +1,7 @@
 import GfCapture from './GfCapture'
 
-const components = {
-  install (Vue) {
-    Vue.component(GfCapture.name, GfCapture)
-  }
-}
-
 if (typeof window !== 'undefined' && window.Vue) {
-  window.Vue.use(components)
+  window.Vue.component(GfCapture.name, GfCapture)
 }
 
-export default components
+export default GfCapture
