@@ -1,6 +1,6 @@
 {
   "name": "gf-capture",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Window Capture with Html2Canvas",
   "author": "jiawei zhang <zhangjw.uta@gmail.com>",
   "private": false,
